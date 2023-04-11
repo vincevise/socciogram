@@ -9,7 +9,7 @@ Created a social media web application as part of my portfolio projects. It is a
 ### Built With
 
 <ul>
-  <li>Frontend
+  <li>Frontend : https://github.com/vincevise/socciogram-frontend
     <ul>
       <li>React</li>
       <li>TailwindCSS</li> 
@@ -23,7 +23,7 @@ Created a social media web application as part of my portfolio projects. It is a
       </li>
     </ul>
   </li>
-  <li>Backend
+  <li>Backend : https://github.com/vincevise/sociogram-backend
     <ul>
       <li>Node Js</li>
       <li>Express Js</li>
