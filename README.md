@@ -1,7 +1,5 @@
 # Socciogram
 
-<a href="https://socciogram-frontend.pages.dev/" style="background:white;">Live Demo</a> 
-
 
 https://github.com/user-attachments/assets/29186018-dd8b-48d9-bb55-74fda218fbfd
 
