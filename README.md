@@ -2,6 +2,10 @@
 
 <a href="https://socciogram-frontend.pages.dev/" style="background:white;">Live Demo</a> 
 
+
+https://github.com/user-attachments/assets/29186018-dd8b-48d9-bb55-74fda218fbfd
+
+
 ### About
 Created a social media web application as part of my portfolio projects. It is a platform where users can follow one another, make new friends, and share their thoughts with the world. The application's user interface is built using React, the backend is supported by the Node.js framework and Express server.  MongoDB and Mongoose are used for the database. you can express yourself by posting something new every day, share your thoughts and even post images
 
